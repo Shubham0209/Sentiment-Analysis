@@ -6,10 +6,10 @@ import sentiment_mod as s
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="4VAiBAB6w1zkRmZOv491JpOhv"
-csecret="24J1JrSoXLQj0j468IPAuKKseentO94evrCtmqlHGVxc1CDIJZ"
-atoken="1027182879401435137-2IyYON2AtzdplfPmZ3QdG8l5lqRojY"
-asecret="dlwhNXVnACOs4oRyeOlcs9ERRE2cKBCekLVUmKYLtkxHS"
+ckey="4VAiBAB6w1zkRmZ491JpOhv"
+csecret="24J1JrSoXLQj0j468IKseentO94evrCtmqlHGVxc1CDIJZ"
+atoken="1027182879401435132AtzdplfPmZ3QdG8l5lqRojY"
+asecret="dlwhNXVnACOs4oRyeOlcE2cKBCekLVUmKYLtkxHS"
 
 class listener(StreamListener):
 
